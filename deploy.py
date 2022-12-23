@@ -1,2 +1,2 @@
-
+This is newly line added
 This script containing the deployment logic...
